@@ -1,2 +1,11 @@
 # datamodels
-INFO 330 B Assigmnets
+* yuh
+* yuh
+* yuh
+* yuh
+* yuh
+* yuh
+* yuh
+* yuh
+
+* extra credit
