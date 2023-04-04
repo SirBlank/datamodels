@@ -1,6 +1,6 @@
 # datamodels
 * Oracle: oracle.md
-* yuh
+* MySQL: mysql.md
 * yuh
 * yuh
 * yuh
